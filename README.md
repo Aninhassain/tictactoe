@@ -29,42 +29,17 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+##################################
+#### My React Learning Journey
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+One of the most exciting projects I built while learning React is the Tic-Tac-Toe game. This project helped me deeply understand React fundamentals like useState, component reusability, and passing props between parent and child components. I also learned how to manage game logic, handle user interactions efficiently, and display real-time status updates like the next player or the winner. It was a great exercise in combining logic with UI design, while keeping the code structured and easy to follow through proper documentation.
 
-## Learn More
+Before that, I built a Text-Utils app, a lightweight tool that allows users to manipulate text — converting case, clearing text, copying results, and more. It taught me how to work with state, props, and event handling in React to create responsive, utility-driven interfaces.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+I also created a News App that dynamically fetches and displays hundreds of daily news articles across multiple categories. This project helped me understand API integration, dynamic routing, and efficient rendering of large datasets.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Each of these projects has played a key role in my React learning journey, strengthening my understanding of component-based development and real-world problem solving.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
